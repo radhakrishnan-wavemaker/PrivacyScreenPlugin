@@ -23,6 +23,12 @@ This plugin exposes no interface, it simply sets your app to be private. You don
 
 Test this plugin on a real device because the iOS simulator does a poor job hiding your app.
 
+
+Installation :
+--------------
+Just add the plugin to your cordova project, Code will be executed automatically onLoad
+
+
 ## License
 
 The MIT License
