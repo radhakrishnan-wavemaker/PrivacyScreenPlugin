@@ -11,9 +11,9 @@ This is a lovely feature for most apps, but if your app displays sensitive infor
 
 This plugin flags your app so that it doesn't show your users' sensitive data in the task switcher.
 
-In Android, It sets the [FLAG_SECURE](http://developer.android.com/reference/android/view/WindowManager.LayoutParams.html#FLAG_SECURE) flag in Android (which also prevents manual screenshots from being taken) 
+* In Android, It sets the [FLAG_SECURE](http://developer.android.com/reference/android/view/WindowManager.LayoutParams.html#FLAG_SECURE) flag in Android (which also prevents manual screenshots from being taken) 
 
-In iOS this plugin will show blurred view over the Corova viewcontroller when the resigns active state.
+* In iOS this plugin will show blurred view over the Corova viewcontroller when the resigns active state.
 
 
 Usage:
